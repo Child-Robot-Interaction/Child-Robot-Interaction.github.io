@@ -1076,8 +1076,9 @@ section {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #210b61;
-  border: 3px solid #210b61;
+  background: #088a4b;
+  border: 3px solid #fff;
+  color: #fff;
 }
 
 /* Our organisation Section
