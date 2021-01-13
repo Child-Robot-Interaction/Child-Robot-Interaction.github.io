@@ -1024,6 +1024,11 @@ section {
   margin: 0;
 }
 
+#testimonials .testimonial-item h5 {
+  font-size: 14px;
+  margin: 0.5em;
+}
+
 #testimonials .testimonial-item .quote-sign-left {
   margin-top: -15px;
   padding-right: 10px;
